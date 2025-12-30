@@ -272,6 +272,7 @@ class _QRGeneratorScreenState extends State<QRGeneratorScreen> {
           _sidebarIcon(Icons.facebook, Colors.indigo),
           _sidebarIcon(Icons.camera_alt, Colors.red),
         ],
+
       ),
     );
   }
